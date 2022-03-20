@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\PlatziWeb\\PlatziWeb.csproj": {}
+    "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\PlatziWeb.csproj": {}
   },
   "projects": {
-    "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\PlatziWeb\\PlatziWeb.csproj": {
+    "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\PlatziWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\PlatziWeb\\PlatziWeb.csproj",
+        "projectUniqueName": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\PlatziWeb.csproj",
         "projectName": "PlatziWeb",
-        "projectPath": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\PlatziWeb\\PlatziWeb.csproj",
+        "projectPath": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\PlatziWeb.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\PlatziWeb\\obj\\",
+        "outputPath": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

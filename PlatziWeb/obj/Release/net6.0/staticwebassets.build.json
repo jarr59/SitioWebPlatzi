@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TzLkRLyJfcxFGCcZMHJe6knsa8s1JtzB70AZLnqUKyQ=",
+  "Hash": "ObO/KefwFHgBhOlYQHfMrcZQZf1bBxigpHyRdNk4owA=",
   "Source": "PlatziWeb",
   "BasePath": "_content/PlatziWeb",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PlatziWeb.styles.css",
+      "Identity": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Release\\net6.0\\scopedcss\\bundle\\PlatziWeb.styles.css",
       "SourceId": "PlatziWeb",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PlatziWeb",
       "RelativePath": "PlatziWeb.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PlatziWeb.styles.css"
+      "OriginalItemSpec": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Release\\net6.0\\scopedcss\\bundle\\PlatziWeb.styles.css"
     },
     {
-      "Identity": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PlatziWeb.bundle.scp.css",
+      "Identity": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\PlatziWeb.bundle.scp.css",
       "SourceId": "PlatziWeb",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PlatziWeb",
       "RelativePath": "PlatziWeb.bundle.scp.css",
       "AssetKind": "All",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PlatziWeb.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\PlatziWeb.bundle.scp.css"
     },
     {
       "Identity": "E:\\Projectos Platzi\\Desarrollo de Aplicaciones con ASP .NET\\App Services\\SitioWebPlatzi\\PlatziWeb\\wwwroot\\css\\site.css",
